@@ -36,7 +36,7 @@
     <hr class="featurette-divider">
 
     <?php foreach($featurettes as $featurette): ?>
-    <div class="row featurette" data-anime="left">
+    <div class="row featurette" data-anime="top">
       <div class="col-md-6">
         <h2 class="featurette-heading"><?php echo $featurette['featurettetitle']; ?></h2>
         <p class="lead"><?php echo substr($featurette['featurettedescription'], 0, 250); ?></p>

@@ -8,6 +8,7 @@
 			<a href="" onclick="return confirm('Agradecemos a preferência, pedidos pelos fones: 99986-8391 ou 99826-5497');"><strong><?php echo $itemTrad['name']; ?>:</strong>
 			<span class="descrip"><?php echo $itemTrad['description'] ?></span></a>
 		</li>
+		<li class="list-group-item" style="font-weight:bold;color:#0000FF">R$ <?php echo number_format($itemTrad['price'], 2, ',', '.'); ?></li>
 	</ul>
 <?php endforeach; ?>
 <h2>Linha Gourmet</h2>

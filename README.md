@@ -1,10 +1,10 @@
-Projeto destinado a lanchonete Sandubão em Itapecerica
+# Projeto destinado a lanchonete Sandubão em Itapecerica
 
-° Layout frontal do projeto
-° Usando bootstrap 4
-° HTML 5 CSS 3
-° PHP 7
-° JQUERY 3
+> Layout frontal do projeto
+> Usando bootstrap 4
+> HTML 5 CSS 3
+> PHP 7
+> JQUERY 3
 
 Este layout conta com uso de banco de dados,
 por tanto se faz necessário a criação do mesmo
